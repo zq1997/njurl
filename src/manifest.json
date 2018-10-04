@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "minimum_chrome_version": "35",
+    "name": "njurl",
+    "version": "1.0.0",
+    "description": "通过南大VPN访问链接",
+    "icons":
+    {
+        "16": "nju.png",
+        "48": "nju.png",
+        "128": "nju.png"
+    },
+    "background":
+    {
+        "scripts": ["background.js"]
+    },
+    "permissions": ["contextMenus", "tabs"]
+}
