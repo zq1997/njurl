@@ -14,5 +14,6 @@
     {
         "scripts": ["background.js"]
     },
-    "permissions": ["contextMenus", "tabs"]
+    "permissions": ["contextMenus", "tabs"],
+    "homepage_url": "https://github.com/zq-97/njurl"
 }
